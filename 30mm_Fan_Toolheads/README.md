@@ -5,3 +5,7 @@ You will need the following:
 1x 3010 or 3015 fan (5v) - https://www.digikey.com/product-detail/en/sunon-fans/MC30100V2-000U-A99/259-1551-ND/2757812
 All of the printed parts in the STL folder
 Some fasteners (see eDrawing)
+
+![Image of 30mm Mosquito](https://raw.githubusercontent.com/volcom8190/VORON_V2_Mods/master/30mm_Fan_Toolheads/Images/mosquito_toolhead_30mm_fan.png?raw=true)
+
+![Image of 30mm V6](https://raw.githubusercontent.com/volcom8190/VORON_V2_Mods/master/30mm_Fan_Toolheads/Images/v6_toolhead_30mm_fan.png?raw=true)
